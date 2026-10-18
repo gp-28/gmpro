@@ -4,3 +4,4 @@ app_publisher = "Tu nombre"
 app_description = "Descripción de la app"
 app_email = "tu@correo.com"
 app_license = "MIT"
+required_apps = ["erpnext"]
