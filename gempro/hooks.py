@@ -5,3 +5,4 @@ app_description = "Descripción de la app"
 app_email = "tu@correo.com"
 app_license = "MIT"
 required_apps = ["erpnext"]
+fixtures = [{"dt": "Role", "filters": [["role_name", "like", "Gempro %"]]}]
