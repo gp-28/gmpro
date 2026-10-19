@@ -1,1 +1,26 @@
-
+[
+ {
+  "doctype": "Role",
+  "name": "Gempro Propietario",
+  "role_name": "Gempro Propietario",
+  "desk_access": 1
+ },
+ {
+  "doctype": "Role",
+  "name": "Gempro Admin Empresa",
+  "role_name": "Gempro Admin Empresa",
+  "desk_access": 1
+ },
+ {
+  "doctype": "Role",
+  "name": "Gempro Jefe de Frente",
+  "role_name": "Gempro Jefe de Frente",
+  "desk_access": 1
+ },
+ {
+  "doctype": "Role",
+  "name": "Gempro RRHH",
+  "role_name": "Gempro RRHH",
+  "desk_access": 1
+ }
+]
