@@ -1,0 +1,52 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"gp01\",\"type\":\"header\",\"data\":{\"text\":\"<b>Gempro</b>\",\"col\":12}},{\"id\":\"gp02\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Trabajadores\",\"col\":3}},{\"id\":\"gp03\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Frentes de Trabajo\",\"col\":3}},{\"id\":\"gp04\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Periodos Operativos\",\"col\":3}},{\"id\":\"gp05\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Asignaciones\",\"col\":3}}]",
+ "creation": "2026-10-19 00:00:00.000000",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Gempro",
+ "links": [],
+ "modified": "2026-10-19 00:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Gempro",
+ "name": "Gempro",
+ "number_cards": [],
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Trabajadores",
+   "link_to": "Employee",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Frentes de Trabajo",
+   "link_to": "Frente de Trabajo",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Periodos Operativos",
+   "link_to": "Periodo Operativo",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Asignaciones",
+   "link_to": "Asignacion",
+   "type": "DocType"
+  }
+ ],
+ "title": "Gempro"
+}
