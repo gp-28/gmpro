@@ -6,3 +6,5 @@ app_email = "tu@correo.com"
 app_license = "MIT"
 required_apps = ["erpnext"]
 fixtures = [{"dt": "Role", "filters": [["role_name", "like", "Gempro %"]]}]
+after_install = "gempro.permisos.aplicar_permisos"
+after_migrate = ["gempro.permisos.aplicar_permisos"]
